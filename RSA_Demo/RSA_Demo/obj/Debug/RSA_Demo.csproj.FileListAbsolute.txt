@@ -1,0 +1,6 @@
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\bin\Debug\RSA_Demo.exe.config
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\bin\Debug\RSA_Demo.exe
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\bin\Debug\RSA_Demo.pdb
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\obj\Debug\RSA_Demo.csproj.CoreCompileInputs.cache
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\obj\Debug\RSA_Demo.exe
+C:\Users\zyl\source\repos\RSA_Demo\RSA_Demo\obj\Debug\RSA_Demo.pdb
